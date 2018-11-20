@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Basic Express 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TrainingApp", "TrainingApp\TrainingApp.vbproj", "{2C42F6FB-E428-45DC-A3AA-C69DD62BE88C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Itanium = Debug|Itanium
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Itanium = Release|Itanium
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C42F6FB-E428-45DC-A3AA-C69DD62BE88C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C42F6FB-E428-45DC-A3AA-C69DD62BE88C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C42F6FB-E428-45DC-A3AA-C69DD62BE88C}.Debug|Itanium.ActiveCfg = Debug|Itanium
+		{2C42F6FB-E428-45DC-A3AA-C69DD62BE88C}.Debug|Itanium.Build.0 = Debug|Itanium
+		{2C42F6FB-E428-45DC-A3AA-C69DD62BE88C}.Debug|x86.ActiveCfg = Debug|x86
+		{2C42F6FB-E428-45DC-A3AA-C69DD62BE88C}.Debug|x86.Build.0 = Debug|x86
+		{2C42F6FB-E428-45DC-A3AA-C69DD62BE88C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C42F6FB-E428-45DC-A3AA-C69DD62BE88C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C42F6FB-E428-45DC-A3AA-C69DD62BE88C}.Release|Itanium.ActiveCfg = Release|Itanium
+		{2C42F6FB-E428-45DC-A3AA-C69DD62BE88C}.Release|Itanium.Build.0 = Release|Itanium
+		{2C42F6FB-E428-45DC-A3AA-C69DD62BE88C}.Release|x86.ActiveCfg = Release|x86
+		{2C42F6FB-E428-45DC-A3AA-C69DD62BE88C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
