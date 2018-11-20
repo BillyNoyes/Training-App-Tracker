@@ -1,0 +1,13 @@
+H:\CG2 (2014-2015)\TrainingApp\TrainingApp\bin\Itanium\Debug\TrainingApp.exe
+H:\CG2 (2014-2015)\TrainingApp\TrainingApp\bin\Itanium\Debug\TrainingApp.pdb
+H:\CG2 (2014-2015)\TrainingApp\TrainingApp\bin\Itanium\Debug\TrainingApp.xml
+H:\CG2 (2014-2015)\TrainingApp\TrainingApp\obj\Itanium\Debug\ResolveAssemblyReference.cache
+H:\CG2 (2014-2015)\TrainingApp\TrainingApp\obj\Itanium\Debug\TrainingApp.Homepage.resources
+H:\CG2 (2014-2015)\TrainingApp\TrainingApp\obj\Itanium\Debug\TrainingApp.Login.resources
+H:\CG2 (2014-2015)\TrainingApp\TrainingApp\obj\Itanium\Debug\TrainingApp.Form1.resources
+H:\CG2 (2014-2015)\TrainingApp\TrainingApp\obj\Itanium\Debug\TrainingApp.Personal_Details.resources
+H:\CG2 (2014-2015)\TrainingApp\TrainingApp\obj\Itanium\Debug\TrainingApp.Resources.resources
+H:\CG2 (2014-2015)\TrainingApp\TrainingApp\obj\Itanium\Debug\TrainingApp.vbproj.GenerateResource.Cache
+H:\CG2 (2014-2015)\TrainingApp\TrainingApp\obj\Itanium\Debug\TrainingApp.exe
+H:\CG2 (2014-2015)\TrainingApp\TrainingApp\obj\Itanium\Debug\TrainingApp.xml
+H:\CG2 (2014-2015)\TrainingApp\TrainingApp\obj\Itanium\Debug\TrainingApp.pdb
